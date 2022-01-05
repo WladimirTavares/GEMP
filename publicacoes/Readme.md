@@ -23,3 +23,8 @@ Wladimir Araujo Tavares. *Festival, um problema de planejamento de atrações co
 - Michael Douglas Gonc¸alves Nobrega; Wladimir Araujo Tavares; Paulo de Tarso Guerra Oliveira. Equação Linear Diofantina na Programação Competitiva. Encontros Universitários UFC 2019, Quixadá. [[pdf](equacao_linear_diofantina.pdf)]
 - Claro Henrique Silva Sales; Matheus Xavier Sampaio; Wladimir Araujo Tavares. *Solução para o problema “Interplanetário”  da XXIV Maratona de Programação.* Encontros Universitários UFC 2019, Quixadá. [[pdf](Interplanetario.pdf)]
 
+## Encontros Universitários 2021
+
+- Daniel Vitor Pereira Rodrigues, Wladimir Araújo Tavares. *Solução para o problema "Halting Wolf" da XXV Maratona de Programação da SBC*. Encontros Universitários UFC 2021, Quixadá. [[pdf](wolf.pdf)]
+
+
